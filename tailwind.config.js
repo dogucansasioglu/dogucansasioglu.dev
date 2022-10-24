@@ -8,7 +8,9 @@ module.exports = {
     extend: {
       colors: {
         sand: "#faf4ee",
-        "dark-purple": "#281952",
+        purple: "#281952",
+        "dark-purple": "#221545",
+        yellow: "#FFD54F",
       },
       fontFamily: {
         averta: ["Averta", "sans-serif"],

@@ -40,5 +40,5 @@
 }
 
 html {
-  @apply bg-sand font-averta;
+  @apply bg-sand font-averta text-purple;
 }
